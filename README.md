@@ -5,7 +5,7 @@ A community-maintained, lightweight Dockerized wrapper for mboxShell—a fast te
 ## Source Code
 
 * **Docker Packaging Repository:** [mrdanpsmith/mboxshell-docker on GitHub](https://github.com/mrdanpsmith/mboxshell-docker)
-* **Upstream Project:** [dcarrero/mboxshell on GitHub](https://github.com)
+* **Upstream Project:** [dcarrero/mboxshell on GitHub](https://github.com/dcarrero/mboxshell)
 
 ## Quick Start
 
